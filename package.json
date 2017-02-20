@@ -1,0 +1,26 @@
+{
+  "name": "type-script-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis M",
+  "license": "MIT",
+  "dependencies": {
+    "@types/angular": "^1.6.6"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-spsave": "*",
+    "gulp-watch": "*",
+    "gulp-prompt": "*",
+    "sppull": "*",
+    "path": "*",
+    "sp-live-reload": "*",
+    "through2": "*",
+    "cpass": "*",
+    "jsonfile": "*"
+  }
+}

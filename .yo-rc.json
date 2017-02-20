@@ -1,0 +1,12 @@
+{
+  "generator-sppp": {
+    "appname": "type-script-2",
+    "appdesc": "",
+    "author": "Denis M",
+    "siteUrl": "https://zergoos.sharepoint.com/demo",
+    "username": "Zergoos@Zergoos.onmicrosoft.com",
+    "spRootFolder": "_catalogs/masterpage/spf",
+    "dlRootFolder": "./src",
+    "bowerlibs": []
+  }
+}
