@@ -4,7 +4,6 @@ var app;
     var spService = (function () {
         function spService($http) {
             this.$http = $http;
-            $http.get('https://geg');
         }
         spService.prototype.getUserStorage = function (listTitle) {
             return { Title: listTitle };

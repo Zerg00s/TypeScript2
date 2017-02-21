@@ -10,7 +10,7 @@ namespace app​​ {
     export class spService implements ISpService {
         static inject: Array<string> = ['$http'];
         constructor(private $http: ng.IHttpService) {
-            $http.get('https://geg');
+            
         }
         getUserStorage(listTitle:string){
             
