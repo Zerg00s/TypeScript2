@@ -5,7 +5,7 @@
     },
 
     "files": [
-    "typings/index.d.ts" 
+    "global.d.ts"
   ], 
  "include": ["src/*"]
 }
